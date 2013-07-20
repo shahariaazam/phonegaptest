@@ -1,0 +1,4 @@
+phonegaptest
+============
+
+test phonegap application
